@@ -10,7 +10,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "http://juhi0791.github.io/mywesite",
+  "homepage": "http://Pratik521992.github.io/juhiWebsite",
   "author": "Juhi",
   "license": "MIT",
   "dependencies": {
